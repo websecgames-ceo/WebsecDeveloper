@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @WebsecDeveloper (Ekeagbara-Michael Scott)
-- 👀 I’m interested in Web and Software Development 
-- 🌱 I’m currently learning Software and Game dev
+- 👋 Hello, I’m Ekeagbara Scott
+- 👀 I’m furnisted in Web, Game and Software Development 
 - 💞️ I’m looking to collaborate on Fortnite
 - 📫 How to reach me @scott4michael08@gmail.com and http://www.websec.website
 
